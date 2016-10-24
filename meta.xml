@@ -1,0 +1,26 @@
+<meta>
+  <info author="lharc" version="0.1" type="script" />
+ 
+  <script src="r_client.lua" type="client" />
+  <script src="r_server.lua" type="server" />
+
+  <!--- UI PICKLOCK -->
+  <file src="images/lapa1.png"/>
+  <file src="images/lapa2.png"/>
+  <file src="images/lapa3.png"/>
+  <file src="images/otm1.png"/>
+  <file src="images/otm2.png"/>
+  <file src="images/otm3.png"/>
+  <file src="images/zadnik.png"/>
+  <file src="images/zadnik1.png"/>
+  <!--- END UI PICK LOCK --->
+  
+  <!--- SOUNDS FX PICKLOCK --->
+  <file src="fx/ui_lockpicking_cylinderstop_01.wav"/>
+  <file src="fx/ui_lockpicking_cylinderstop_02.wav"/>
+  <file src="fx/ui_lockpicking_pickbreak_02.wav"/>
+  <file src="fx/ui_lockpicking_pickbreak_03.wav"/>
+  <file src="fx/ui_lockpicking_unlock_01.wav"/>
+  <file src="fx/ui_lockpicking_cylindersqueak_07.wav"/>
+  
+</meta>
